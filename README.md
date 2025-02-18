@@ -23,7 +23,7 @@
 
 1. 克隆仓库到本地：
 ```bash
-git clone https://github.com/你的用户名/image-renamer.git
+git clone https://github.com/lry666666/renamed-photo.git
 ```
 
 2. 进入项目目录：
@@ -35,7 +35,7 @@ cd image-renamer
 
 1. 运行脚本：
 ```bash
-python rename_images.py
+python renamed-photo.py
 ```
 
 2. 按照提示进行操作：
