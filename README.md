@@ -1,6 +1,5 @@
 # renamed-photo
 
-# Image Batch Renamer
 
 一个简单而实用的图片批量重命名工具，支持随机命名和指定前缀的序号命名两种模式。
 
